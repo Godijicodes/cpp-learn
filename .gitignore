@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.dll
+.vscode/
+tempCodeRunnerFile.cpp
+build/
